@@ -1,0 +1,11 @@
+{
+  "Angga": {
+      "active": true,
+      "pass": "angga",
+      "role": "user"
+    },
+    "Dewangga": {
+      "active": true,
+      "pass": "dewa",
+      "role": "user"
+    }
